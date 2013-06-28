@@ -1,0 +1,9 @@
+---
+name: mysql_gateway
+dependencies:
+- mysqlclient
+- sqlite
+- ruby
+files:
+- mysql_service/**/*
+- pkg_utils/*

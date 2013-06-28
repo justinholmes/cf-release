@@ -1,0 +1,11 @@
+---
+name: mysql_node
+dependencies:
+- mysqlclient
+- sqlite
+- ruby
+files:
+- mysql_service/**/*
+- services_warden/warden/**/*
+- pkg_utils/*
+- common/services/utils.sh
