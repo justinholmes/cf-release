@@ -43,3 +43,9 @@
 [submodule "src/collector"]
   path = src/collector
   url = https://github.com/cloudfoundry/collector.git
+[submodule "shared"]
+  path = shared
+  url = https://github.com/cloudfoundry/shared-release-packages.git
+[submodule "src/mysql_service/vendor/integration-test-support"]
+  path = src/mysql_service/vendor/integration-test-support
+  url = https://github.com/cloudfoundry/integration-test-support.git
