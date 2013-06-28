@@ -499,3 +499,48 @@ buildpack_cache/auto-reconfiguration-0.6.8.jar:
   sha: !binary |-
     MjY4MjYwMDM5YzZmMjU4N2M1Y2M0M2MyYjU3M2VlODhiNGRiZWMwYw==
   size: 709165
+postgresql/postgresql-9.0.13-x86_64.tar.gz:
+  object_id: rest/objects/4e4e78bca11e121004e4e7d511f8210515f15afe0e84
+  sha: 04c9c94161552408eaa65b0a3fba312aec08aa1a
+  size: 24861255
+postgresql/postgresql-initdb-9.0-x86_64.tar.gz:
+  object_id: rest/objects/4e4e78bca41e122204e4e9863d0763050b33e050c233
+  sha: 181900c6346f718ccd7cfbb8813e7c00f760bc55
+  size: 3467921
+postgresql/postgresql-9.1-x86_64.tar.gz:
+  object_id: rest/objects/4e4e78bca61e121204e4e86eebe59105074950835d80
+  sha: d6c44760c1e5eb055b6ac4a8080b061d6d04fa3c
+  size: 26556736
+postgresql/postgresql-initdb-9.1-x86_64.tar.gz:
+  object_id: rest/objects/4e4e78bca11e121004e4e7d511f821050b33e0805ff8
+  sha: c51a45f5a6011a6bb22407c164ea9b77f77cddad
+  size: 3911161
+postgresql/postgresql-9.2.4-x86_64.tar.gz:
+  object_id: rest/objects/4e4e78bca31e122204e4e9863b1b740516451dfdeda2
+  sha: !binary |-
+    Y2YzNDBjYTUxZWNhYWZjMDRhYTlkM2M2NDkwZmI3ZDU3ZmQ1YTNiNw==
+  size: 10519400
+postgresql/postgresql-initdb-9.2-x86_64.tar.gz:
+  object_id: rest/objects/4e4e78bca11e122004e4e8ec6484310513946c1ccb48
+  sha: 6f46ff94648219840fa475eb95bfa23a5f4bf905
+  size: 4146878
+mysql/mysql-initdb-5.1.62-rel13.3-435-Linux-x86_64.tar.gz:
+  object_id: rest/objects/4e4e78bca31e122204e4e9863b1b74050ac8c6ab8fee
+  sha: 8122bcd96c3fa251ce6a4317570d01b4bf2b8420
+  size: 53356
+mysql/mysql-initdb-5.5.29-rel29.4-401.Linux.x86_64.tar.gz:
+  object_id: rest/objects/4e4e78bca11e122204e4e98638b7630510b21d03bb63
+  sha: fb9485c21e1d8679987d1b60dfd7812e8b4b4c21
+  size: 421383
+mysql/server-5.1.62-rel13.3-435-Linux-x86_64.tar.gz:
+  object_id: rest/objects/4e4e78bca31e121004e4e7d514745f04fb68b2898dd0
+  sha: 2bfd575545fe78729c56bb832aa69d8d9fc8630d
+  size: 34179263
+mysql/server-5.5.29-rel29.4-401.Linux.x86_64.tar.gz:
+  object_id: rest/objects/4e4e78bca11e122004e4e8ec6484310510b21c863a27
+  sha: 5e0ab03805732259935a4e45c163f66e2450df2b
+  size: 59624889
+libyaml/yaml-0.1.4.tgz:
+  object_id: rest/objects/4e4e78bca51e122004e4e8ec6840770511d35ffc91bd
+  sha: e0e5e09192ab10a607e3da2970db492118f560f2
+  size: 471759
