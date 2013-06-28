@@ -540,7 +540,3 @@ mysql/server-5.5.29-rel29.4-401.Linux.x86_64.tar.gz:
   object_id: rest/objects/4e4e78bca11e122004e4e8ec6484310510b21c863a27
   sha: 5e0ab03805732259935a4e45c163f66e2450df2b
   size: 59624889
-libyaml/yaml-0.1.4.tgz:
-  object_id: rest/objects/4e4e78bca51e122004e4e8ec6840770511d35ffc91bd
-  sha: e0e5e09192ab10a607e3da2970db492118f560f2
-  size: 471759
